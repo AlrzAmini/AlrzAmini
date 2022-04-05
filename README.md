@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlrzAmini
-- 👀 I’m interested in Coding all Days
-- 🌱 I’m currently learning Asp.Net Core
-- 💞️ I’m looking to collaborate with All Developers here
+- 👀 interested in Coding all Days
+- 🌱 currently learning Asp.Net Core
+- 💞️ looking to collaborate with All Developers here
 - 📫 mranotmillion@gmail.com
 
 <!---
