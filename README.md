@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlrzAmini
-- 👀 interested in Coding all Days
-- 🌱 currently learning Asp.Net Core
-- 💞️ looking to collaborate with All Developers here
-- 📫 mranotmillion@gmail.com
+- 👀 Interested in Coding all Days
+- 🌱 Currently learning Asp.Net Core
+- 💞️ Looking to collaborate with All Developers here
+- 📫 Mranotmillion@gmail.com
 
 <!---
 AlrzAmini/AlrzAmini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
