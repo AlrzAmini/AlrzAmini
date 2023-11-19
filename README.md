@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/external-programmer-profession-avatar-konkapp-outline-color-konkapp.png"  />
 
 ###
 
