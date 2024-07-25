@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br>My name is Alireza<br>and I'm a .NET developer<br>from Iran.<br>Currently working as Senior .NET developer🌱.<br>Interested in Coding all Days.<br>Looking to collaborate with All Developers here💞️</h2>
+<h2 align="left">Hi 👋!<br>My name is Alireza<br>and I'm a .NET developer<br>from Iran.<br>Currently working as .NET developer.<br>Interested in Coding all Days.<br>Looking to collaborate with All Developers here💞️</h2>
 
 ###
 
